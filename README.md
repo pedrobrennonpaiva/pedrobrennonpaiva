@@ -34,6 +34,21 @@ Here are some of my main tools and technologies:
     * ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     * ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+* **Monitoring & Observability:**
+    * ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+    * ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+    * ![Mimir](https://img.shields.io/badge/Mimir-FF6600?style=for-the-badge&logo=grafana&logoColor=white)
+    * ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+
+* **Logging & Search:**
+    * ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+    * ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+
+* **Analytics & Feature Flags:**
+    * ![GrowthBook](https://img.shields.io/badge/GrowthBook-6C5CE7?style=for-the-badge&logo=growthbook&logoColor=white)
+    * ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+    * ![Flagr](https://img.shields.io/badge/Flagr-FF6B6B?style=for-the-badge&logo=flag&logoColor=white)
+
 ---
 
 #### 📊 GitHub Stats
